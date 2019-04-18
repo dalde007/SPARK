@@ -60,8 +60,8 @@ a {
 .sidebar nav {
   font-weight: lighter;
   text-align: center;
-  margin-top: 8vw;
-  z-index: 5;
+  margin-top: 3vw;
+  z-index: 10;
 }
 
 .sidebar li {
