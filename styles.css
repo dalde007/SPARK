@@ -241,7 +241,7 @@ section.page:not(#hero) {
 }
 
 #team img {
-	max-width: 100px;
+max-width: 50px;
 }
 
 #repos {
