@@ -240,18 +240,6 @@ section.page:not(#hero) {
   font-weight: bold;
 }
 
-.team img {
-  height: 25vw;
-  border-radius: 0%;
-  border: ;
-  position: absolute;
-  z-index: ;
-  right: -25%;
-  transform: translateX(10%);
-  transform: translateY(15%);
-  transform: translateZ(100%);
-}
-
 #repos {
   background: wheat;
   color: black;
