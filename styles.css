@@ -332,4 +332,8 @@ section.page:not(#hero) {
   #about img {
     max-width: 150px;
   }
+  
+  #team img {
+	max-width: 50px;
+}
 }
