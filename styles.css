@@ -20,7 +20,7 @@ a {
   width: 30vw;
   position: fixed;
   z-index: 1;
-  background: whitesmoke;
+  background: white;
   display: flex;
   flex-direction: column;
   align-items: center;
