@@ -240,6 +240,10 @@ section.page:not(#hero) {
   font-weight: bold;
 }
 
+#team img {
+	max-width: 100px;
+}
+
 #repos {
   background: wheat;
   color: black;
